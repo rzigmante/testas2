@@ -1,0 +1,58 @@
+body {
+    font-size: 0;
+}
+
+.logo {
+    background-color: rgb(164, 219, 164);
+    padding: 10pt;
+    font-size: 25pt;
+    padding-left: 40pt;
+    margin: 5pt;
+
+}
+
+.navigation {
+    background-color: rgb(164, 219, 164);
+    font-size: 15pt;
+    margin: 5pt;
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(164, 219, 164);
+    font-size: 15pt;
+    text-align: center;
+    margin: 5pt;
+    padding: 20pt;
+}
+
+.body1 {
+    background-color: rgb(164, 219, 164);
+    display: inline-block;
+    width: 30%;
+    box-sizing: border-box;
+    font-size: 15pt;
+    margin: 5pt;
+    padding: 80pt;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.body2 {
+    background-color: rgb(164, 219, 164);
+    display: inline-block;
+    width: 68%;
+    box-sizing: border-box;
+    font-size: 15pt;
+    margin: 5pt;
+    padding: 80pt;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.footer {
+    background-color: rgb(164, 219, 164);
+    font-size: 15pt;
+    margin: 5pt;
+    text-align: center;
+}
